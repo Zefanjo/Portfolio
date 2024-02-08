@@ -2,7 +2,7 @@ body {
     margin:0;
     font-family: Helvetica, serif;
     display:flex;
-    background: linear-gradient(to right top,  #525252FF 75%, #FFFFFFFF);
+    background: linear-gradient(to bottom,  #525252FF 75%, #171717);
 }
 
 .coverLinks {
@@ -61,6 +61,7 @@ body {
     height:150px;
     width:150px;
     margin:15px;
+    object-fit: cover;
 }
 
 #hover {
@@ -185,7 +186,7 @@ header {
 
     body{
         flex-direction: column;
-        background: rgb(82, 82, 82);
+        background: linear-gradient(#525252FF 75%, #171717) no-repeat fixed;
     }
 
     .footer {

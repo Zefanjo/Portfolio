@@ -24,11 +24,11 @@
             </div>
         </div>
     <div class="sidebar">
-        <div class="photoBox"></div>
+        <div><img class="photoBox" src="/images/pfp.png" alt="pfp"></div>
             <header>Zéfanjo Mulder</header>
         <div>
-            <a target=”_blank” href="https://www.instagram.com/skaxta/"><img class="buttons" src="/images/insta.svg" alt=""></a>
-            <a target=”_blank” href="https://discord.com/channels/@me"><img class="buttons" src="/images/discord.svg" alt=""></a>
+            <a target=”_blank” href="https://www.instagram.com/zefanjo_mulder06/"><img class="buttons" src="/images/insta.svg" alt=""></a>
+            <a target=”_blank” href="https://www.linkedin.com/in/z%C3%A9fanjo-mulder-a86a132b3/"><img class="buttons" src="/images/linkedin.svg" alt=""></a>
         </div>
         <div class="links">
             <a id="hover" href="/">Home</a>
@@ -62,11 +62,11 @@
                 </div>
             </div>
         <div class="sidebar">
-            <div class="photoBox"></div>
+            <div><img class="photoBox" src="/images/pfp.png" alt="pfp"></div>
             <header>Zéfanjo Mulder</header>
             <div>
-                <a target=”_blank” href="https://www.instagram.com/skaxta/"><img class="buttons" src="/images/insta.svg" alt=""></a>
-                <a target=”_blank” href="https://discord.com/channels/@me"><img class="buttons" src="/images/discord.svg" alt=""></a>
+                <a target=”_blank” href="https://www.instagram.com/zefanjo_mulder06/"><img class="buttons" src="/images/insta.svg" alt=""></a>
+                <a target=”_blank” href="https://www.linkedin.com/in/z%C3%A9fanjo-mulder-a86a132b3/"><img class="buttons" src="/images/linkedin.svg" alt=""></a>
             </div>
             <div class="links">
                 <a id="hover" href="/">Home</a>
