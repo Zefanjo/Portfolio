@@ -5,7 +5,7 @@ let config = {
     plugins: [
         laravel({
             input: [
-                'resources/css/style.css',
+                'resources/css/app.css',
                 'resources/js/app.js',
             ],
         }),
