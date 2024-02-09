@@ -6,7 +6,7 @@ let config = {
         laravel({
             input: [
                 'resources/css/app.css',
-                'resources/js/app.js',
+                'resources/js/script.js',
             ],
         }),
     ],
