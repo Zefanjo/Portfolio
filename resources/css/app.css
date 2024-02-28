@@ -2,7 +2,7 @@ body {
     margin:0;
     font-family: Helvetica, serif;
     display:flex;
-    background: linear-gradient(to bottom, #ffffff 75%, #171717);
+    background: linear-gradient(to bottom,  #525252FF 75%, #171717);
 }
 
 .coverLinks {
