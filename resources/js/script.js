@@ -22,7 +22,6 @@ onclick = (e) => {
 
     if (document.getElementById("barsNl").id === e.target.id) {
         document.getElementById("overlayNl").style.display = "flex"
-        console.log("buh")
     }
 
     if (document.getElementById("transDutch") === e.target) {
