@@ -9,7 +9,7 @@
 
     <div id="headDutch">
         <h1>Over Mij</h1>
-        <p>Mijn naam is Zéfanjo Mulder, ik ben 17 jaar oud en woon in 't Harde. Ik ben een eerste jaars Software Developer op Landstede en ik wil mijn opleiding afronden als een full-stack developer, zelfs al wordt het moeilijk zal ik mijn best doen im dat doel te halen.
+        <p>Mijn naam is Zéfanjo Mulder, ik ben 18 jaar oud en woon in 't Harde. Ik ben een eerste jaars Software Developer op Landstede en ik wil mijn opleiding afronden als een full-stack developer, zelfs al wordt het moeilijk zal ik mijn best doen om dat doel te halen.
         De programmeertalen waar ik vat op heb zijn: HTML, CSS, JavaScript, ReactJS en PHP.</p>
     </div>
 @endsection
