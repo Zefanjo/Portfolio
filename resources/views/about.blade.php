@@ -3,7 +3,7 @@
 @section('content')
     <div id="headEnglish">
         <h1>About Me</h1>
-        <p>My name is Zéfanjo Mulder, I am 17 years old and live in ’t Harde. I am a first year software developer at Landstede and I wish to graduate as a full-stack developer, even if it will be tough I would do my absolute best to reach that goal.
+        <p>My name is Zéfanjo Mulder, I am 18 years old and live in ’t Harde. I am a first year software developer at Landstede and I wish to graduate as a full-stack developer, even if it will be tough I would do my absolute best to reach that goal.
         The coding languages I currently have grip on are: HTML, CSS, JavaScript, ReactJS and PHP.</p>
     </div>
 
