@@ -24,7 +24,7 @@
             </div>
         </div>
     <div class="sidebar">
-        <div><img class="photoBox" src="/images/pfp.png" alt="pfp"></div>
+        <div><img id="photoBox" src="/images/pfp.png" class="lazyload" alt="pfp"></div>
             <header>Zéfanjo Mulder</header>
         <div>
             <a target=”_blank” href="https://www.instagram.com/zefanjo_mulder06/"><img class="buttons" src="/images/insta.svg" alt=""></a>
@@ -62,7 +62,7 @@
                 </div>
             </div>
         <div class="sidebar">
-            <div><img class="photoBox" src="/images/pfp.png" alt="pfp"></div>
+            <div><img id="photoBox" src="/images/pfp.png" class="lazyload" alt="pfp"></div>
             <header>Zéfanjo Mulder</header>
             <div>
                 <a target=”_blank” href="https://www.instagram.com/zefanjo_mulder06/"><img class="buttons" src="/images/insta.svg" alt=""></a>

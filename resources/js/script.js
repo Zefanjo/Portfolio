@@ -1,3 +1,7 @@
+import 'lazysizes';
+// import a plugin
+// import 'lazysizes/plugins/parent-fit/ls.parent-fit';
+
 if(localStorage.getItem('language') === 'nl'){
     document.getElementById("dutchText").style.display = "flex"
     document.getElementById("englishText").style.display = "none"
